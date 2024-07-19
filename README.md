@@ -23,11 +23,11 @@ The insights derived from the analysis will be utilised to create a comprehensiv
 
 ### Goal of the Analysis: 
 
-The objective of this project is to demonstrate my proficiency in data analytics, programming, and data visualisation. By leveraging Python for data analysis and Excel for dashboard creation, I aim to provide valuable insights into the COVID-19 pandemic.
+The goal of this project is to showcase my expertise in data analytics, programming, and data visualization. Using Python for data analysis and Excel for dashboard creation, I aim to uncover valuable insights into the COVID-19 pandemic.
 
 The main focus of this analysis will be addressing key unknown factors to understand the global and regional dynamics of COVID-19, its impact on healthcare systems, the effectiveness of public health measures, and potential predictive patterns.
 
-This analysis will address the following key questions, total of 8 to understand the global and regional dynamics of COVID-19, its impact on healthcare systems, the effectiveness of public health measures, and potential predictive patterns:
+This analysis will address eight key questions to elucidate the global and regional dynamics of COVID-19, its impact on healthcare systems, the effectiveness of public health measures, and potential predictive patterns. These questions are designed to provide a comprehensive understanding of the pandemic's progression and influence.
 
 Global Trends:
 
