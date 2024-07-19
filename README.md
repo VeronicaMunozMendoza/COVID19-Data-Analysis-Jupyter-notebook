@@ -14,7 +14,8 @@ The insights derived from the analysis will be utilised to create a comprehensiv
 
 **Source:** The COVID-19 dataset is maintained by Our World in Data.
 
-**Link**: [COVID-19 Dataset]([url](https://github.com/owid/covid-19-data/tree/master/public/data)) 
+**Link**: [COVID-19 Dataset](https://github.com/owid/covid-19-data/tree/master/public/data)
+
 
 
 ## Introduction
