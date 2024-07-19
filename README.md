@@ -10,6 +10,7 @@ The insights derived from the analysis will be utilised to create a comprehensiv
 
 	•	VS Code
 	•	Jupyter Notebook
+	•	Python
 	•	Excel
 
 **Source:** The COVID-19 dataset is maintained by Our World in Data.
