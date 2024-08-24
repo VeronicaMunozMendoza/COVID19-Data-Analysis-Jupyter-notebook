@@ -29,17 +29,10 @@ The main focus of this analysis will be addressing key unknown factors to unders
 
 This analysis will address eight key questions to elucidate the global and regional dynamics of COVID-19, its impact on healthcare systems, the effectiveness of public health measures, and potential predictive patterns. These questions are designed to provide a comprehensive understanding of the pandemic's progression and influence.
 
-Global Trends:
 
 	•	What are the trends of total cases and deaths globally over time?
-
-Regional Comparison:
-
 	•	Which countries have the highest total cases and deaths (top 3)?
-	•	How do total cases and deaths per million population vary across different regions (top 10)?
-
-Healthcare System Impact:
-
+	•	How do total cases and deaths per million population vary across different regions (top 10)
 	•	How many ICU patients and hospitalized patients are there?
  
  #### Key Observations on Global Trends of Total Cases and Deaths by Month
