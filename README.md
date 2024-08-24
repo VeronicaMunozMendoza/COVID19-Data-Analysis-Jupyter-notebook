@@ -38,11 +38,11 @@ This analysis will address eight key questions to elucidate the global and regio
 
 **1. Global Trends of COVID-19 Cases and Deaths Over Time**
 
-Initial Surge and Stabilization:
+##### Initial Surge and Stabilization:
 
 The analysis revealed a rapid increase in total COVID-19 cases globally from early 2020 to mid-2021. This surge reflects the widespread and rapid transmission of the virus during the initial stages of the pandemic. However, from mid-2021 onwards, the number of new cases stabilized, indicating the potential impact of public health interventions, such as lockdowns, mask mandates, and vaccination campaigns.
 
-Low and Stable Death Rate:
+##### Low and Stable Death Rate:
 
 While the total number of cases increased significantly, the death rate remained relatively low and stable over the same period. This suggests improvements in healthcare systems, better treatment options, and possibly the effects of vaccination in reducing the severity of COVID-19 cases.
 
@@ -52,17 +52,17 @@ The analysis identified the top three countries with the highest total COVID-19 
 
 **3. Regional Variation in Cases and Deaths Per Million**
 
-Differences Across Continents:
+##### Differences Across Continents:
 
 There is a notable variation in the number of cases and deaths per million population across different regions. Some continents experienced higher infection rates and mortality, which could be attributed to differences in public health policies, healthcare capacity, and the timing of interventions.
 
-Top 10 Regions:
+##### Top 10 Regions:
 
 The top 10 regions by cases and deaths per million population further emphasize the disparities in how different parts of the world were affected. Regions with higher cases and deaths per million may have faced more significant challenges in controlling the virus and protecting vulnerable populations.
 
 **4. Impact on Healthcare Systems**
 
-ICU and Hospitalized Patients: 
+##### ICU and Hospitalized Patients: 
 
 The analysis of ICU and hospitalized patient data provides insight into the strain on healthcare systems. The total number of ICU and hospitalized patients highlights the capacity challenges faced by hospitals during the peak of the pandemic. These figures are crucial for understanding the demand for critical care resources and the ability of healthcare systems to manage severe COVID-19 cases.
 
