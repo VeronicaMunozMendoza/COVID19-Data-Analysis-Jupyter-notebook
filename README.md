@@ -35,30 +35,35 @@ Global Trends:
 
 Regional Comparison:
 
-	•	Which continents/countries have the highest total cases and deaths?
-	•	How do total cases and deaths per million population vary across different regions?
+	•	Which countries have the highest total cases and deaths (top 3)?
+	•	How do total cases and deaths per million population vary across different regions (top 10)?
 
 Healthcare System Impact:
 
-	•	How many ICU patients and hospitalised patients are there over time?
+	•	How many ICU patients and hospitalized patients are there?
+ 
+ #### Key Observations on Global Trends of Total Cases and Deaths by Month
 
-Per Million Metrics:
+The plot shows global trends in total COVID-19 cases and deaths by month from January 2020 to July 2024.
 
-	•	How do ICU patients per million and hospital patients per million vary across different regions?
 
-Reproduction Rate Analysis:
 
-	•	How has the reproduction rate (R) of the virus varied over time and across different regions?
+1. **Total Cases (Blue Line)**:
+   - Rapid increase from early 2020 to mid-2021.
+   - Stabilized from mid-2021 onwards with minor fluctuations.
+   - Sharp drop in July 2024, possibly a reporting anomaly or significant decrease in new cases.
 
-Excess Mortality Investigation:
+2. **Total Deaths (Red Line)**:
+   - Remain low and stable throughout the period.
+   - No sharp drop at the end, unlike total cases.
 
-	•	How does excess mortality vary across different countries and continents?
+#### General Interpretation
 
-Predictive Analysis:
+- **Initial Surge**: Reflects the pandemic's rapid global spread.
+- **Stabilization**: Indicates the impact of public health measures and vaccination.
+- **Low Death Rate**: Suggests effective treatments and better healthcare responses over time.
 
-	•	Can we predict future trends of COVID-19 cases and deaths using time series forecasting techniques?
-	•	can we predict if somewhere is going to get covid based on attributes in the dataset??
+#### Conclusion
 
-The final phase will involve creating visualisations and interactive elements in an Excel dashboard to enhance the accessibility and usability of these insights for various stakeholders.
-
+The plot highlights the pandemic's trajectory, showing an initial surge, subsequent stabilization, and a consistently low death rate, indicating effective global health interventions.
 
